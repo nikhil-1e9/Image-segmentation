@@ -57,3 +57,6 @@ The model was trained with the following configuration:
 ## Results
 - **Validation Loss**: A significant reduction in validation loss was observed within 10 epochs, demonstrating the model's ability to learn effectively.
 - **Performance**: The model achieves high accuracy in generating segmentation masks.
+
+## Credits
+Credits to Vikram Shenoy for providing the dataset. https://github.com/VikramShenoy97/Human-Segmentation-Dataset
